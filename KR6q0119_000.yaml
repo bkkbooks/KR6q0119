@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0119/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中華傳心地禪門師資承襲圖
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1225.xml
+    old_id: X63n1225
+hash: sha256:18d5dc9969887714c82a6f45bbe37262380ab157097cae36fbc18b68884b0708

@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0119/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0119/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中華傳心地禪門師資承襲圖
+  identifiers:
+    krp: KR6q0119
+    cbeta: X63n1225
+    cbeta_old_id: X63n1225
+    authorityid: CA0000405
+    json_key: X1225
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1225.xml
+    old_id: X63n1225
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0119_000-X.yaml, hash: 'sha256:18d5dc9969887714c82a6f45bbe37262380ab157097cae36fbc18b68884b0708'}
+  - {seq: 1, filename: KR6q0119_001-X.yaml, hash: 'sha256:3ddb3a8cc8816f1d86d2fbbe8f8ad8b46e5afc93b11367d9fa6e913872e1bfd3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0119_000-X.markers.yaml, hash: 'sha256:b006cbde130e57cc6af67ac8d1bc52d0709a13754f489a9fae09a444fe497f5a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0119_001-X.markers.yaml, hash: 'sha256:bae904a1aae64e9a3dc3b55e142e167e5c14909c72a58ab8bb0fabcec2f898b5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0119_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6166
+  label: 中華傳心地禪門師資承襲圖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0119_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 裴休相國問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0119_X_001-mulu-2
+    span:
+    - body
+    - 112
+    - 112
+  label: 宗密禪師答
+  type: mulu
+  level: 1
+hash: sha256:50175177faa9e5bff0b3fbeabf9a9b2d540fc04666f9e439fdc3535292b21cef
