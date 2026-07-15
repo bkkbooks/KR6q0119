@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0119/v1
 canonical_location: https://kanripo.org/bkk/KR6q0119/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中華傳心地禪門師資承襲圖
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0119_000.yaml, hash: 'sha256:18d5dc9969887714c82a6f45bbe37262380ab157097cae36fbc18b68884b0708'}
-  - {seq: 1, filename: KR6q0119_001.yaml, hash: 'sha256:3ddb3a8cc8816f1d86d2fbbe8f8ad8b46e5afc93b11367d9fa6e913872e1bfd3'}
+  - {seq: 1, filename: KR6q0119_001.yaml, hash: 'sha256:2c60c34e772b4abecdba64307e482f401dfe383a5a9fa4352179c235eb7a3238'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0119_000.markers.yaml, hash: 'sha256:87cbada367d14434e70b32ea4b57ddb2e447fc3c67b727d02609df705f47882b'}
-  - {seq: 1, role: markers, filename: assets/KR6q0119_001.markers.yaml, hash: 'sha256:761f6a24f4157dc276f7beef2d5b2a0387d26f85301fefb09ddd1b06d7457bc2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0119_001.markers.yaml, hash: 'sha256:0f21565be400ff4073d5fae3b9255c3458cc44b99626c1518ed0b85d7af48aaf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: 宗密禪師答
   type: mulu
   level: 1
-hash: sha256:7c61b220352a15227b79353da292fccc7473e332764fb9377fe0c04a7ae06dbd
+hash: sha256:583ead8918a1adbd7c31a63f2defb128c249a9b7665cf335feabf3fb9d1e0412
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
